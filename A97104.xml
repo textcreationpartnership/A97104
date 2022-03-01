@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prediction of Mr. Edvvards his conversion and recantation. By William Walvvin.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97104</idno>
+            <idno type="STC">Wing W691</idno>
+            <idno type="STC">Thomason E1184_5</idno>
+            <idno type="STC">ESTC R208197</idno>
+            <idno type="EEBO-CITATION">99867169</idno>
+            <idno type="PROQUEST">99867169</idno>
+            <idno type="VID">119462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119462)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1184[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prediction of Mr. Edvvards his conversion and recantation. By William Walvvin.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T[homas] P[aine] for G. Whittington and N. Brookes, at the signe of the Angell in Cornhill, below the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from McMichael and Taft, The writings of William Walwyn, p.227.</note>
+                  <note>Annotation on Thomason copy: "Aug: 11th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119462:1" rendition="simple:additions"/>
+            <p>A PREDICTION OF M<hi rend="sup">r.</hi> EDWARDS HIS CONVERSION, and Recantation.</p>
+            <p>By WILLIAM WALVVIN.</p>
+            <p>LONDON, Printed by <hi>T. P.</hi> for <hi>G. Whittington</hi> and <hi>N. Brookes,</hi> at the ſigne of the Angell in Cornhill, bel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w the Exchange. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119462:2"/>
+            <pb n="1" facs="tcp:119462:2"/>
+            <head>A PREDICTION OF MASTER EDWARDS HIS CONVERSION and Recantation.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath of late ſo much la<g ref="char:EOLhyphen"/>bour, and ſo many good diſ<g ref="char:EOLhyphen"/>courſes beene beſtowed upon Mr. <hi>Edwards,</hi> and with ſo pi<g ref="char:EOLhyphen"/>ous and good intentions, that it is not to be ſuppoſed, ſo many precious en<g ref="char:EOLhyphen"/>devours can be vaine or fruicleſſe, in refe<g ref="char:EOLhyphen"/>rence to his converſion.</p>
+            <p>In caſes ſo deſperate as h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, the worſt ſignes are the beſt; as wee uſe to ſay, when things are at the worſt, they are neareſt to an amendment.</p>
+            <p>To an impartiall judgement, that ſeri<g ref="char:EOLhyphen"/>ouſly conſiders the violence of his ſpirit, ma<g ref="char:EOLhyphen"/>nifeſted againſt harmeleſſe, well-meaning people, that differ with him in judgement:
+<pb n="2" facs="tcp:119462:3"/> He cannot but ſeeme, at beſt, in that wretch<g ref="char:EOLhyphen"/>ed condition, that <hi>Paul</hi> was in, when hee breathed out threatnings and ſlaughter, a<g ref="char:EOLhyphen"/>gainſt the diſciples of the Lord; and went unto the High Prieſt, and deſired of him let<g ref="char:EOLhyphen"/>ters to <hi>Damaſcus,</hi> to the Synagogues, that if hefound any of <hi>this way,</hi> whether they were men or women, he might bring them bound unto Jeruſalem.</p>
+            <p>For certainly, had not Authority, in theſe our times, being endowed with much more true Chriſtian wiſdome then ſuch teachers, and through the power thereof, had not re<g ref="char:EOLhyphen"/>ſtrained the bitterneſſe of his (and the like) ſpirits; we had had (before this time) mul<g ref="char:EOLhyphen"/>titudes of both men and women, brought from all parts of this Nation, bound, unto <hi>London,</hi> if not burned in Smithfield.</p>
+            <p>But many there are, that feare, his condi<g ref="char:EOLhyphen"/>tion is much more ſad, and deſperate, then this of <hi>Pauls,</hi> (which yet the bleſſed Apoſtle was much troubled to thinke on, long after his converſion, accompting himſelfe as one borne out of due time, and not worthy the name of an Apoſtle, <hi>becauſe he perſecuted the Church of God.)</hi> It being exceedingly feared that in all his unchriſtian writings, preach<g ref="char:EOLhyphen"/>ings, and endevours, to provoke Authority againſt conſciontious people, that therein
+<pb n="3" facs="tcp:119462:3"/> he goeth againſt the light of his owne con<g ref="char:EOLhyphen"/>ſcience, that he is properly an Heretique, one that is ſubverted and ſinneth, being con<g ref="char:EOLhyphen"/>demned of himſelfe.</p>
+            <p>And indeed, who ever ſhall conſider, the exceeding Light that hath been darted from ſo many Seraphick Quills, ſhining round about him; amidſt his perſecuting intentions, (all which he hath hitherto re<g ref="char:EOLhyphen"/>ſiſted) will find and confeſſe; there is cauſe to feare: So great a ſhining and a burning light, that it cannot be doubted, but that hee diſcerneth, how unreaſonable a thing it is, that one erring man ſhould compell or comptroule another mans practice, <hi>in things ſupernatur all:</hi> or that any lawes ſhould be made for puniſhing <hi>of miſ-apprehentions therein,</hi> wherein thouſands are as liable to be miſtaken; as one ſingle perſon.</p>
+            <p>He muſt needs know, that, only things na<g ref="char:EOLhyphen"/>turall and rationall are properly ſubject un<g ref="char:EOLhyphen"/>to government: And that things ſupernatu<g ref="char:EOLhyphen"/>rall, ſuch as in Religion are diſtinguiſhed by the title of things divine; ſuch, as the benefit and uſe thereof, could never have beene per<g ref="char:EOLhyphen"/>ceived by the light of nature and reaſon: that ſuch things are not liable to any com<g ref="char:EOLhyphen"/>pulſive governmen, but that therein every one ought to be fully perſwaded in their
+<pb n="4" facs="tcp:119462:4"/> owne minds; becauſe <hi>whatſoever is not i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> faith is ſinne.</hi>
+            </p>
+            <p>He cannot be ignorant, how diſputable all the parts of Divinity are amongſt the moſt learned, how then can he judge it ſo horrible a thing as he ſeemes to doe, for men to differ, though upon the higheſt points: he knowes every one is bound to try all things, the unlearned as well as the learned: now if there be different under<g ref="char:EOLhyphen"/>ſtandings, ſome weaker and ſome ſtronger, (as there are) how is it poſſible but then will (upon every tryall) be difference in de<g ref="char:EOLhyphen"/>grees of apprehenſions: and ſurely he will not ſay that weakneſſe of underſtanding is ſinfull where there is due endevour after knowledge: and though it ſhould be ſin<g ref="char:EOLhyphen"/>full in the ſight of a pure God, yet will he not ſay it is puniſhable, by impure and er<g ref="char:EOLhyphen"/>ronious man: But,</p>
+            <p>To rayle revile, reproch, backbite, ſlan<g ref="char:EOLhyphen"/>der, or to deſpiſe men and women, for their weakneſſes: their meanes of trades and callings, or poverty, is ſo evidently againſt the rule of Chriſt and his Apoſtles, that he cannot but condemne himſelfe herein: his underſtanding is ſo great, and he is ſo well read in Scripture, that he muſt needs ac<g ref="char:EOLhyphen"/>knowledge, theſe cannot ſtand with <hi>Love:</hi>
+               <pb n="5" facs="tcp:119462:4"/> that knowne and undiſputable Rule.</p>
+            <p>Inſomuch, as if bad ſignes in ſo deſpe<g ref="char:EOLhyphen"/>rate a caſe as his is, are the beſt, ſurely he is not farre from his recovery and conver<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>With God there is mercy; his mercyes are above all his workes, his delight is in ſhewing mercy: and the Apoſtle tells us <hi>where ſinne hath abounded grace</hi> (or love) <hi>hath ſuper-abounded:</hi> O that he would ſtand ſtill a while, and conſider the love of Chriſt, that he would throw by his imbittered pen, lock himſelfe cloſe in his ſtudy, draw his curteines, and ſit downe but two houres, and ſeriouſly, ſadly, and ſearchingly lay to heart, the things he hath ſaid and done, a<g ref="char:EOLhyphen"/>gainſt a people whom he knoweth, deſire to honour God: and withal to bear in mind the infinite mercy of God, <hi>that where ſin hath a<g ref="char:EOLhyphen"/>bounded, grace hath over abounded:</hi> certainly it could not but work him into the greateſt and moſt burning extremity that ever poor perplexed man was in, ſuch an extremity as generally proves Gods opportunity, to caſt his aboundant grace ſo plentifully into the diſtreſſed ſoule, as in an inſtant burnes and conſumes all earthly paſſions, and corrupt affections, and in ſtead thereof fills the ſoule with love, which inſtantly refineth and
+<pb n="6" facs="tcp:119462:5"/> Changeth the worſt of men, into the beſt of men.</p>
+            <p>May this be the happy end of his unhap<g ref="char:EOLhyphen"/>py labours: it is the hearty deſire of thoſe whom he hath hitherto hated, and moſt di<g ref="char:EOLhyphen"/>ſpitefully uſed; (nothing is to hard for God) it will occaſion joy in Heaven, and both joy and peace in earth, you ſhal then ſee him a man compoſed of all thoſe opinions he hath ſo much reviled: an Independent: ſo far as to. allow every man to be fully perſwaded in his owne mind, and to moleſt no man for worſhiping God according to his conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>A Browniſt: ſo far, as to ſeparate from all thoſe that preach for filthy lucre: An Ana<g ref="char:EOLhyphen"/>baptiſt: ſo far, at leaſt, as to be rebaptiſed in a floud of his owne true repentant teares: A ſeeker: in ſeeking occaſion, how to doe good unto all men, without reſpect of per<g ref="char:EOLhyphen"/>ſons or opinions: he <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill be wholly incorpo<g ref="char:EOLhyphen"/>rate into the Family of love, of true Chriſti<g ref="char:EOLhyphen"/>an love, that covereth a multitude of evils: that ſuffereth long, and is kind, envieth not, vanteth not it ſelfe, is not puffed up, doth not behave it ſelfe unſeemly, ſeeketh not her owne, is not eaſily provoked &amp;c. And then: you may expect him to breake forth and publiſh to the world, this or the like recan<g ref="char:EOLhyphen"/>tation.</p>
+            <pb n="7" facs="tcp:119462:5"/>
+            <p>Where have I been! Into what ſtrange and uncouth pathes have I run my ſelf! I have long time walked in the counſell of the ungodly, ſtood in the way of finners, and too too long ſate in the feat of the ſcornful.</p>
+            <p>O vile man, what have I done? Abomi<g ref="char:EOLhyphen"/>nable it is!</p>
+            <p>O wietched man, how have I finned againſt God! It ſhameth me: It repenteth me: My ſpirit is confounded within me.</p>
+            <p>I have committed evils, of a new and un<g ref="char:EOLhyphen"/>paralelled nature, ſuch as the Proteſtant Re<g ref="char:EOLhyphen"/>ligion in all after-ages wil be ſhamed of. For I have publiſhed in print to the view of all men the names of divers godly well affected perſons, and reproached them as grand Im<g ref="char:EOLhyphen"/>poſtors, Blaſphemers, Heretiques and Schiſ<g ref="char:EOLhyphen"/>matiques, with out ever ſpeaking with them my ſelfe.</p>
+            <p>And though I am conſcious to my ſelfe, of many weakneſſes, and much error, and cannot deny, but I may be miſtaken in thoſe things, wherein, at preſent I am very confi<g ref="char:EOLhyphen"/>dent, yet have I moſt preſumptuouſly and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rogantly, aſſumed to my ſelfe, a power of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udging, and cenſuring all judgements, opi<g ref="char:EOLhyphen"/>nions. and wayes of worſhip (except my owne) to bee either damnable, hereticall, chiſmaticall, or dangerous: And though I
+<pb n="8" facs="tcp:119462:6"/> have ſeene and condemned the evill of it in the Biſhops and Prelates, yet (as they) have I reviled &amp; reproached them, under the com<g ref="char:EOLhyphen"/>mon nick-names of Browniſts, Indepen<g ref="char:EOLhyphen"/>dents, Anabaptiſts, Antinomians, Seekert, and the like:) of purpoſe to make them odi<g ref="char:EOLhyphen"/>ous to Authority, and all ſorte of men: whereby I have wrought very much trouble to many of them, in all parts throughout this Nation; and have cauſed great diſaſſe. ction in Families, Cities and Countries, for difference in judgement, (which I ought not to have done) Irritating and provoking on againſt an other, to the diſſolving of all ci<g ref="char:EOLhyphen"/>vill and naturall relations, and as much as in me lay, inciting and animating to the extir<g ref="char:EOLhyphen"/>pation and utter ruine one of another, in ſo much as the whole Land (by my unhappy meanes, more then any others) is become a Nation of quarrels, diſtractions, and divifi<g ref="char:EOLhyphen"/>ons, our Cities, Cities of ſtrife, ſlander, and backbiting; by occaſion whereof, both our counſell and ſtrength faileth, and all the godly party in the Land, are now more lia<g ref="char:EOLhyphen"/>ble to abuſe and danger, whether they are Presbyterians, Independents, or others, then they have been ſince the beginning of this Parliament; though many of them are ſo blinded by my writings and diſcourſes
+<pb n="9" facs="tcp:119462:6"/> and ſo perverted in their underſtandings, that they cannot diſcerne it: And where<g ref="char:EOLhyphen"/>fore I have done all this, O Lord God thou knoweſt, and I tremble to remember, for I have done it out of the pride and vanity of my owne mind, out of diſdaine, that plaine unlearned men ſhould ſeeke for knowledge any other way then as they are directed by us that are learned; out of baſe feare, if they ſhould fall to teach one another, that wee ſhould loſe our honour, and be no longer eſteemed as Gods Clergy, or Miniſters <hi>Jure divino;</hi> or that we ſhould loſe our domina<g ref="char:EOLhyphen"/>tion in being ſole judges of doctrine and diſcipline, whereby our predeceſſours have over ruled State and Kingdomes.</p>
+            <p>Or laſtly, that we ſhould loſe our profits and plentious maintenance by Tithes, offer<g ref="char:EOLhyphen"/>ings, &amp;c. which our predeceſſours (the Cler<g ref="char:EOLhyphen"/>gle) for many ages have enjoyed as their proper right, and not at the good-will of the owners, or the donation of humane au<g ref="char:EOLhyphen"/>thority: All this I ſaw comming in with that liberty, which plaine men tooke, to try and examine all things; and therefore being overcome with ſelfe-reſpect, and not being able to withſtand ſo ſtrong temptations, be<g ref="char:EOLhyphen"/>ing alſo then filled with a kind of know<g ref="char:EOLhyphen"/>ledge
+<pb n="10" facs="tcp:119462:7"/> that puffeth up: I be tooke my ſelfe to that unhappy worke, to make all men odi<g ref="char:EOLhyphen"/>ous, that, either directly, or by conſequence did any thing towards the ſubverſion of our glory, power, or profit.</p>
+            <p>In doing whereof, what wayes and means I have taken for intelligence: What trea<g ref="char:EOLhyphen"/>chery, inhumanity, and breach of hoſpitali<g ref="char:EOLhyphen"/>ty, I have countenanced and encouraged; my conſcience too ſadly tels me, and my un<g ref="char:EOLhyphen"/>happy bookes (if duly weighed) will to my ſhame diſcover.</p>
+            <p>The moſt knowing, judicious, underſtand<g ref="char:EOLhyphen"/>ing men that oppoſed me, or my intereſt, I knew were thoſe, that did and could moſt prejudice our cauſe; and therefore I ſet my ſelfe againſt them in a more ſpeciall man<g ref="char:EOLhyphen"/>ner, labouring by any meanes to make them odious to all ſocieties, that ſo they might not be credited in any thing they ſpake.</p>
+            <p>The truth is: In this my perverſe and ſad condition, whilſt I ſtood for maintenance of my corrupt intereſt, it was impoſſible for me, truly to love a judicious or an enquiring man: I loved none, but ſuperſtitious or ig<g ref="char:EOLhyphen"/>norant people, for with ſuch I could per<g ref="char:EOLhyphen"/>ſwade, and over ſuch I could bear rule: ſuch would pay whatſoever I demanded, and do
+<pb n="11" facs="tcp:119462:7"/> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hatever I required: they ſpake as I ſpake, commended what I approved, &amp; reproach<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, as I reproached: I could make them run point-blanck againſt Authority, or fly in the face of any man, for theſe took me real<g ref="char:EOLhyphen"/>ly for one of Gods Clergie, admired my parts and learning, as gifts of the Holy Ghoſt, and beleeved my erring Sermons to be the very word of God; willingly ſubmit<g ref="char:EOLhyphen"/>ted their conſciences and religion to my guidance.</p>
+            <p>Whilſt (as indeed it is) an underſtanding <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nquiring man, ſtudious in the Scriptures, in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>antly diſcerneth me to be but as other lay<g ref="char:EOLhyphen"/>men, and findeth our learning to be but like other things that are the effects of ſtudy and induſtry, and that our preachings are like any other mens diſcourſes, liable to er<g ref="char:EOLhyphen"/>rours and miſtakings, and are not the very Word of God, but our apprehenſions drawne from the Word.</p>
+            <p>I confeſſe now moſt willingly to my owne ſhame, that there was nothing which I con<g ref="char:EOLhyphen"/>ceived effectuall, to work upon the ſuper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itious or ignorant, but I made uſe thereof <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Prelats had don before me, yea I ſtrict<g ref="char:EOLhyphen"/>ly obſerved order in ſuch things as few men conſider, &amp; yet are very powerful in the
+<pb n="12" facs="tcp:119462:8"/> minds of many; as the wearing of my Cloa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of at leaſt a Clergy-mans length, my Hat of a due breadth and bigneſſe, both for brim and crown, ſomewhat different from lay men, my band alſo of a peculiar ſtraine, and and my clothes <hi>all black,</hi> I would not have worne a coloured ſute at any rate, that I thought enough to betray all, nor any trim<g ref="char:EOLhyphen"/>ing on my black, as being unſutable to a <hi>Divines</hi> habit.</p>
+            <p>I had a care to be ſadder in countenance and more ſollemne in diſcourſe becauſe it was the cuſtom of a Clergy-man, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his I did though I knew very well the Apoſtles of Chriſt, uſed no ſuch vaine diſtinctons, but being not indeed unlike other men, through any endowments from on high, or power of miracles, and yet reſoluing to maintayn a diſtinction, (being unable to do it by any thing ſubſtantiall, I) concluded it muſt be done (as it long time had been, both in the Romiſh and Prelatique Church) even by vain and Fantaſtick diſtinctions, ſuch as clothes and other formalities; and though I knew full well, that God was no reſpecter of per<g ref="char:EOLhyphen"/>ſons, and that he made not choiſe of the great, or learned men of the world, to be his Prophets and publiſhers of the Goſpell:
+<pb n="13" facs="tcp:119462:8"/> but Heardſ-men, Fiſher-men Tent-mak<g ref="char:EOLhyphen"/>ers Toll-gatherers, &amp;c. and that our Bleſ<g ref="char:EOLhyphen"/>ſed Saviour thought it no diſparage<g ref="char:EOLhyphen"/>ment to be reputed the Sonne of a Carpen<g ref="char:EOLhyphen"/>ter: yet have I moſt unworthily reviled and reproached, divers ſorts of honeſt Tradeſmen, and other vſefull laborious peo<g ref="char:EOLhyphen"/>ple, for endevouring to preach and to in<g ref="char:EOLhyphen"/>ſtruct thoſe that willingly would be inſtruct<g ref="char:EOLhyphen"/>ed by them, tearming them illiterate Me<g ref="char:EOLhyphen"/>chanicks, Heriticks, and Sciſmaticks, meerly becauſe I would not have my ſuperſtiti<g ref="char:EOLhyphen"/>ous friends, to give any eare or regard unto them.</p>
+            <p>And for theſe reſpects, have I magnifi<g ref="char:EOLhyphen"/>ed our publique Churches or meeting pla<g ref="char:EOLhyphen"/>ces, and reproached and cryed out upon all preachings in private houſes, calling them conventicles and uſing all endevours, to make all ſuch private meetings liable to that Statute that was enacted, and provid<g ref="char:EOLhyphen"/>ed to reſtraine and avoyd all ſecret plot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngs againſt the civill government, when in the meane time I knew the ſcriptures plainly ſhewed, both by the precepts and practices of our Saviour and his Apoſtles, that all places are indifferent, whether in the mountaine or in the fields, on the wa<g ref="char:EOLhyphen"/>ter,
+<pb n="14" facs="tcp:119462:9"/> in the ſhip, or on the ſhore, in the Syna<g ref="char:EOLhyphen"/>gogues or privat houſes, in an upper or low<g ref="char:EOLhyphen"/>roome; all is one, <hi>they went preaching the Goſpell from houſe to houſe. Not in Ieruſalem<g ref="char:punc">▪</g> nor in this mountaine, but in every place he that lifteth up pure hands is accepted. Whereſo<g ref="char:EOLhyphen"/>ever two or three are gathered together in my name, there</hi> (ſaith our Saviour) <hi>I will be in the mideſt of them,</hi> all this I knew: yet, becauſe the ſuperſtitious were (through long cuſtom) zealous of the publique places, I applyed my ſelfe therein, to their humors and my owne ends, and did what I could to make all o<g ref="char:EOLhyphen"/>ther places odious and ridiculous: though now I ſeriouſly acknowledge, that a plaine diſcreet man in a privat houſe, or field, in his ordinary apparell, ſpeaking to plaine people (like himſelfe) ſuch things as he conceiveth requiſit for their knowledge<g ref="char:punc">▪</g> out of the word of God, doth as much (if not more) reſemble the way of Chriſt and the manner of the Apoſtles, as a learned man in a carved pulpet, in his neate and black formalities, in a ſtately, high, and ſtone-built Church, ſpeaking to an audience, much more glorious and richly clad, then moſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtians mentioned in the Scriptures: and may be as acceptable<g ref="char:punc">▪</g> I have moſt miſera<g ref="char:EOLhyphen"/>bly
+<pb n="15" facs="tcp:119462:9"/> deluded the world therein, and thoſe moſt with whom I have beene moſt fami<g ref="char:EOLhyphen"/>liar, and have thereby drawne off their thoughts from a conſideration of ſuch things as tended to love, peace and joy in the Holy Ghoſt<g ref="char:punc">▪</g> to ſuch things as tended neither to their owne good nor the good, of others. I have beene wiſe in my own eyes, and deſpiſed others, but I muſt a<g ref="char:EOLhyphen"/>bandon all, I muſt become a foole that I may bee wiſe, hitherto I have promo<g ref="char:EOLhyphen"/>ted a meere <hi>Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgy</hi> Religion, but true Chriſtian religion; pure religion and unde<g ref="char:EOLhyphen"/>filed I have-utterly neglected: I have wreſt<g ref="char:EOLhyphen"/>ed the covenant from its naturall and proper meaning, to make uſe thereof for the eſta<g ref="char:EOLhyphen"/>bliſhment of ſuch a Church government, as would maintaine the power of the Clergy diſtinct from and above the power of Par<g ref="char:EOLhyphen"/>liaments, and ſuch as would have given full power to ſuppreſſe and cruſh all our oppoſers, but I now bleſſe God, the wiſdom of Parliament diſcerned and prevented it.</p>
+            <p>I have been too too cruel and hard heart<g ref="char:EOLhyphen"/>ed againſt men for erors in religion, or <hi>know<g ref="char:EOLhyphen"/>ledge ſupernaturall,</hi> though I my ſelfe have no infallible ſpirit to diſcern between truth and erors, yea though I have ſeene them ſo
+<pb n="16" facs="tcp:119462:10"/> zealous &amp; conſcientious in their judgment<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as to be ready to give up their lives for the truth thereof, yet have I (as the Biſhops were wont) argued them of obſtinacy, and in ſteed of taking a chriſtian-like way to convert them, have without mercy cenſured, ſome of them worthy of impriſonment, and ſome of death, but I would not be ſo uſed, nor have I done therein as I would be done unto my ſelfe.</p>
+            <p>I have beene a great reſpecter of perſons, for outward reſpects, the man in Fine ray<g ref="char:EOLhyphen"/>ment, and with the gold ring, I have ever prefered whilſt the poore and needy have beene low in my eſteeme.</p>
+            <p>I have too much loved greetings in the market place, and the uppermoſt places a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feaſts, and to be called Rabby.</p>
+            <p>And to fill up the meaſure of my iniquity: I have had no compaſſion on tender conſciences, but have wrought them all the trouble cruelty and miſery I could, and had done much more but that through the goodneſſe of God, the preſent authority was too juſt and pious to ſecond my unchri<g ref="char:EOLhyphen"/>ſtian endevours: My mercifull Saviour would not breake the bruſed reed, nor quench the ſmokeing flax, but my hard heart hath done
+<pb n="17" facs="tcp:119462:10"/> it, O that I had not quenched, that I had not reſiſted the Spirit, what fruit have I of thoſe things whereof I am now aſhamed; O how fowle I am, and filthy, yea how na<g ref="char:EOLhyphen"/>ked and all uncovered, my hidden ſinne lyes open, I ſee it, and the ſhame of it, and how fowle it is; and the ſight of it grieveth and exceedingly troubleth me. I would faine hide my ſelfe from mine owne ſinne, but cannot; it purſueth me, it cleaveth unto me, it ſtands ever before me and I am made to poſſeſſe my ſinne, though it be grievous and loathſome and abominable and filthy above all that I can ſpeake, what ſhall I doe? whi<g ref="char:EOLhyphen"/>ther ſhall I fly? who can deliver me from this body of death? my ſpirit is ſo wounded I am not able to beare: Can there be mercy for me? can there be balme for my wound<g ref="char:EOLhyphen"/>ed ſpirit, that never had compaſſion on a tender conſcience? my caſe is ſad and miſ<g ref="char:EOLhyphen"/>ſerable, but there is balme in Gilead: with God there is mercy: with him is plenteous redemption, I will therefore goe to my Fa<g ref="char:EOLhyphen"/>ther and ſay unto him. Father I have ſinned againſt Heaven and againſt thee, I am not worthy to be called thy child, make me as one of thine hired ſervants, I will faith<g ref="char:EOLhyphen"/>fully apply my ſelfe to thy will, and to the
+<pb n="18" facs="tcp:119462:11"/> ſtudy of thy Commandements, yea I will both ſtudy and put in practice thy new com<g ref="char:EOLhyphen"/>mandement, which is love, I will re<g ref="char:EOLhyphen"/>deem the time I have miſpent: love will help me, for God is love, the love of Chriſt will conſtraine me, through love I ſhall be enabled to doe all things, ſhould I not love him that hath loved me, and ſhewed mercy unto me, for ſo many thouſand ſinnes, ſhall not his kindneſſe beget kindneſſe in me, yes love hath filled me with love, ſo let me cate, and ſo let me drinke, for ever, love is good and ſeeketh the good of all men, it helpeth and hurteth not, it bleſſeth, it teach<g ref="char:EOLhyphen"/>eth, it feedeth, it clotheth, it delivereth the captive, &amp; ſetteth the oppreſſed free; it breakes not the bruſed reed, nor quench<g ref="char:EOLhyphen"/>eth the ſmokeing flaxe, farewell for ever all old things, as pride envy coveteouſneſſe reviling, and the like, and welcome love, that maketh all things new, even ſo let love poſſeſſe me, let love dwell in me, and me In love, and when I have finiſhed my dayes in peace, and my yeares in reſt, I ſhall reſt in peace, and I ſhall dwell with love, that have dwelt in love.
+<pb n="19" facs="tcp:119462:11"/> May his meditations hence-forward, and his latter end, be like unto this, or more exellent and Heaven<g ref="char:EOLhyphen"/>ly, which is all the harme I wiſh unto him, as haveing through Gods mercy, in ſome meaſure, learned that worthy and Heavenly leſſon of my Saviour, <hi>But I ſay unto you, love your enemies &amp;c.</hi> and may all that love the Lord Ieſus, increaſe therein.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb n="21" facs="tcp:119462:12"/>
+            <opener>
+               <dateline>
+                  <date>July 22. 1646.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>JOHN BACHILER</signed>
+            </closer>
+            <pb facs="tcp:119462:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
